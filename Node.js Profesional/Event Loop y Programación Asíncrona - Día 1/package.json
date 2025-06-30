@@ -1,0 +1,21 @@
+{
+  "name": "Event Loop y Programación Asíncrona - Día 1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "profile": "0x app.js",
+    "clinic": "clinic doctor -- node app.js",
+    "benchmark": "autocannon -c 100 -d 30 http://localhost:3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.4",
+  "devDependencies": {
+    "0x": "^5.8.0",
+    "autocannon": "^8.0.0",
+    "clinic": "^13.0.0"
+  }
+}
